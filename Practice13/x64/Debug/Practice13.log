@@ -1,2 +1,2 @@
 ﻿  Practice13.cpp
-  Practice13.vcxproj -> Z:\研修\C\Practice13\Practice13\x64\Debug\Practice13.exe
+Z:\研修\C\Practice13\Practice13\Practice13\Practice13.cpp(23,4): error C2065: 'idx1': 定義されていない識別子です。

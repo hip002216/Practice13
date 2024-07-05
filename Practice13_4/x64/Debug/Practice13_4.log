@@ -1,0 +1,4 @@
+﻿  Practice13_4.cpp
+Z:\研修\C\Practice13\Practice13\Practice13_4\Practice13_4.cpp(14,9): warning C4477: 'printf' : 書式文字列 '%s' には、型 'char *' の引数が必要ですが、可変個引数 1 は型 'int' です
+Z:\研修\C\Practice13\Practice13\Practice13_4\Practice13_4.cpp(14,9): warning C4313: 'printf': 書式文字列内の '%s' が引数 1 ('int' 型) と競合しています
+  Practice13_4.vcxproj -> Z:\研修\C\Practice13\Practice13\x64\Debug\Practice13_4.exe
